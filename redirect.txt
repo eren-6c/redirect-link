@@ -1,1 +1,5 @@
-https://just2earn.com/Erenupdateduser
+{
+  "redirectLinks": [
+    "https://example.com/download"
+  ]
+}
