@@ -1,5 +1,7 @@
 {
+  "messageBoxMessage": "Thanks for clicking! We’ll redirect you now 👇",
   "redirectLinks": [
-    "https://example.com/download"
+    "https://example.com",
+    "https://discord.gg/yourserver"
   ]
 }
