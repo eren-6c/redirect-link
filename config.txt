@@ -1,3 +1,3 @@
-freepanel=true
-message=Complete 50 Likes and Comments on YouTube video.\nClick OK to open YouTube video
-video_link=https://www.youtube.com/watch?v=IfsdD62jAU0
+freepanel=false
+message=50 Likes and Comments on YouTube video is not completed Free Panel is paused, Complete 50 Likes and Comments !.\nClick OK to open YouTube video
+video_link=https://www.youtube.com/watch?v=d8BvegBS3Jk
